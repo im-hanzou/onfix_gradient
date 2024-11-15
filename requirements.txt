@@ -11,4 +11,4 @@ loguru
 pydantic
 rich
 urllib3
-yaml
+pyyaml
